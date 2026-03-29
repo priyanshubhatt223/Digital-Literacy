@@ -1,0 +1,22 @@
+Fraud Prevention Tips :-
+
+1. Use strong, unique passwords for each account (mix of letters, numbers, symbols) and enable 2-factor authentication (2FA) wherever possible.
+2. Never share OTPs or passwords with anyone—even if they claim to be from a bank or official service.
+3. Verify links before clicking—avoid suspicious emails, messages, or unknown attachments.
+4. Keep your devices updated with the latest security patches and antivirus software.
+5. Use secure Wi-Fi networks; avoid logging into sensitive accounts on public Wi-Fi or use a VPN.
+6. Limit personal information sharing on social media (phone number, address, college ID, etc.).
+7. Log out from shared/public computers and avoid saving passwords on them.
+8. Download apps only from trusted sources like official app stores and check permissions carefully.
+
+UPI & Financial Safety Tips :-
+
+1. Double-check UPI IDs and QR codes before making payments—fraudsters often use similar-looking IDs.
+2. Remember: receiving money does NOT require entering a PIN—never approve unknown “collect” requests.
+3. Enable transaction alerts (SMS/email) to monitor any unauthorized activity.
+4. Avoid screen sharing during banking transactions—scammers may trick you into revealing sensitive info.
+
+In Case of Cyber Fraud :-
+
+1. Call Helpline: 1930 immediately (for quick action on financial fraud)
+2. Report online at: National Cyber Crime Portal → https://cybercrime.gov.in
